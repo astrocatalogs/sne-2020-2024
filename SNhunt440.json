@@ -1,0 +1,55 @@
+{
+	"SNhunt440":{
+		"schema":"https://github.com/astrocatalogs/supernovae/blob/d3ef5fc/SCHEMA.md",
+		"name":"SNhunt440",
+		"sources":[
+			{
+				"name":"Supernova Hunt",
+				"url":"http://nesssi.cacr.caltech.edu/catalina/current.html",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SNhunt440",
+				"source":"1"
+			}
+		],
+		"dec":[
+			{
+				"value":"+21:01:31.8",
+				"u_value":"degrees",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2022/01/27",
+				"source":"1"
+			}
+		],
+		"discoverer":[
+			{
+				"value":"CRTS",
+				"source":"1"
+			},
+			{
+				"value":"Villi",
+				"source":"1"
+			}
+		],
+		"host":[
+			{
+				"value":"ARK 249",
+				"source":"1"
+			}
+		],
+		"ra":[
+			{
+				"value":"10:36:20.4",
+				"u_value":"hours",
+				"source":"1"
+			}
+		]
+	}
+}

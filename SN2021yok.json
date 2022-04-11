@@ -241,6 +241,26 @@
 				"telescope":"GAIA",
 				"u_time":"MJD",
 				"source":"3"
+			},
+			{
+				"time":"59659.32057",
+				"band":"G",
+				"e_magnitude":"0.0",
+				"instrument":"Astrometric",
+				"magnitude":"20.47",
+				"telescope":"GAIA",
+				"u_time":"MJD",
+				"source":"3"
+			},
+			{
+				"time":"59659.39457",
+				"band":"G",
+				"e_magnitude":"0.0",
+				"instrument":"Astrometric",
+				"magnitude":"20.37",
+				"telescope":"GAIA",
+				"u_time":"MJD",
+				"source":"3"
 			}
 		]
 	}

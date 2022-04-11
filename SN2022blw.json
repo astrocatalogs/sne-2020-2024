@@ -231,6 +231,26 @@
 				"source":"3"
 			},
 			{
+				"time":"59663.17296",
+				"band":"G",
+				"e_magnitude":"0.0",
+				"instrument":"Astrometric",
+				"magnitude":"19.11",
+				"telescope":"GAIA",
+				"u_time":"MJD",
+				"source":"3"
+			},
+			{
+				"time":"59663.34911",
+				"band":"G",
+				"e_magnitude":"0.0",
+				"instrument":"Astrometric",
+				"magnitude":"19.14",
+				"telescope":"GAIA",
+				"u_time":"MJD",
+				"source":"3"
+			},
+			{
 				"time":"59972.5",
 				"magnitude":"15.9",
 				"u_time":"MJD",

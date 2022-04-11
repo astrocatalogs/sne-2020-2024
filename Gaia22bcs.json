@@ -147,6 +147,46 @@
 				"telescope":"GAIA",
 				"u_time":"MJD",
 				"source":"1"
+			},
+			{
+				"time":"59659.96604",
+				"band":"G",
+				"e_magnitude":"0.0",
+				"instrument":"Astrometric",
+				"magnitude":"18.24",
+				"telescope":"GAIA",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"59660.04006",
+				"band":"G",
+				"e_magnitude":"0.0",
+				"instrument":"Astrometric",
+				"magnitude":"18.21",
+				"telescope":"GAIA",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"59660.21623",
+				"band":"G",
+				"e_magnitude":"0.0",
+				"instrument":"Astrometric",
+				"magnitude":"18.21",
+				"telescope":"GAIA",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"59660.29024",
+				"band":"G",
+				"e_magnitude":"0.0",
+				"instrument":"Astrometric",
+				"magnitude":"18.24",
+				"telescope":"GAIA",
+				"u_time":"MJD",
+				"source":"1"
 			}
 		]
 	}

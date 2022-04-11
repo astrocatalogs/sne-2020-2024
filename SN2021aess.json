@@ -101,14 +101,14 @@
 		],
 		"maxabsmag":[
 			{
-				"value":"-14.035",
+				"value":"-14.085",
 				"derived":true,
 				"source":"1,2,4,5"
 			}
 		],
 		"maxappmag":[
 			{
-				"value":"18.29",
+				"value":"18.24",
 				"derived":true,
 				"source":"3,5"
 			}
@@ -122,21 +122,21 @@
 		],
 		"maxdate":[
 			{
-				"value":"2022/02/12",
+				"value":"2022/03/24",
 				"derived":true,
 				"source":"3,5"
 			}
 		],
 		"maxvisualabsmag":[
 			{
-				"value":"-14.042",
+				"value":"-14.092",
 				"derived":true,
 				"source":"1,2,4,5"
 			}
 		],
 		"maxvisualappmag":[
 			{
-				"value":"18.29",
+				"value":"18.24",
 				"derived":true,
 				"source":"3,5"
 			}
@@ -150,7 +150,7 @@
 		],
 		"maxvisualdate":[
 			{
-				"value":"2022/02/12",
+				"value":"2022/03/24",
 				"derived":true,
 				"source":"3,5"
 			}
@@ -243,6 +243,26 @@
 				"e_magnitude":"0.0",
 				"instrument":"Astrometric",
 				"magnitude":"18.30",
+				"telescope":"GAIA",
+				"u_time":"MJD",
+				"source":"3"
+			},
+			{
+				"time":"59662.51909",
+				"band":"G",
+				"e_magnitude":"0.0",
+				"instrument":"Astrometric",
+				"magnitude":"18.27",
+				"telescope":"GAIA",
+				"u_time":"MJD",
+				"source":"3"
+			},
+			{
+				"time":"59662.59309",
+				"band":"G",
+				"e_magnitude":"0.0",
+				"instrument":"Astrometric",
+				"magnitude":"18.24",
 				"telescope":"GAIA",
 				"u_time":"MJD",
 				"source":"3"

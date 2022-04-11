@@ -92,42 +92,42 @@
 		],
 		"maxabsmag":[
 			{
-				"value":"-17.3646",
+				"value":"-17.9646",
 				"derived":true,
 				"source":"1,2,3,4"
 			}
 		],
 		"maxappmag":[
 			{
-				"value":"15.9",
+				"value":"15.3",
 				"derived":true,
 				"source":"2,3,4"
 			}
 		],
 		"maxdate":[
 			{
-				"value":"2022/03/21",
+				"value":"2022/04/01",
 				"derived":true,
 				"source":"2,3,4"
 			}
 		],
 		"maxvisualabsmag":[
 			{
-				"value":"-17.3756",
+				"value":"-17.9756",
 				"derived":true,
 				"source":"1,2,3,4"
 			}
 		],
 		"maxvisualappmag":[
 			{
-				"value":"15.9",
+				"value":"15.3",
 				"derived":true,
 				"source":"2,3,4"
 			}
 		],
 		"maxvisualdate":[
 			{
-				"value":"2022/03/21",
+				"value":"2022/04/01",
 				"derived":true,
 				"source":"2,3,4"
 			}
@@ -154,8 +154,8 @@
 		],
 		"photometry":[
 			{
-				"time":"59659.5",
-				"magnitude":"15.9",
+				"time":"59670.5",
+				"magnitude":"15.3",
 				"u_time":"MJD",
 				"source":"2,3"
 			}
